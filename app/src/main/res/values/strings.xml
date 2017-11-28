@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="activityTrackerButtonText">Activity Tracking</string>
+    <string name="nutritionTrackerButtonText">Food Nutrition information tracker</string>
+    <string name="houseThermostatButtonText">House Thermostat</string>
+    <string name="automobileButtonText">Automobile</string>
+</resources>
