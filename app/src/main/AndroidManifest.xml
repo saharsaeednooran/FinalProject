@@ -19,7 +19,8 @@
         <activity android:name=".HouseThermostatActivity" />
         <activity android:name=".NutritionTrackerActivity" />
         <activity android:name=".AutomobileActivity" />
-        <activity android:name=".ActivityTrackerActivity"></activity>
+        <activity android:name=".ActivityTrackerActivity" />
+        <activity android:name=".AddActivity"></activity>
     </application>
 
 </manifest>
